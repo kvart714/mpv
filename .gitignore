@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!myinstall.ps1
+!portable_config/
+!portable_config/input.conf
+!portable_config/mpv.conf
